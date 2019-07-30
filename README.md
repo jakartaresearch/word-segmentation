@@ -28,3 +28,6 @@ Project Trees:
 **Instalation Requirements**:
     
     pip install -r requirements.txt
+    
+## Dataset
+The dataset can be found [here](https://drive.google.com/drive/folders/1zRq6e9ndUOX7v6Qz-EU9ECSfxSTJsv6u?usp=sharing)
