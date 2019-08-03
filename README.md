@@ -31,3 +31,7 @@ Project Trees:
     
 ## Dataset
 The dataset can be found [here](https://drive.google.com/drive/folders/1zRq6e9ndUOX7v6Qz-EU9ECSfxSTJsv6u?usp=sharing)
+
+## Timeline
+
+Detail timeline can be found [here](https://docs.google.com/spreadsheets/d/170BDuEffhWfKkcdC0TCmQYmuEhOYN0RumVqhaVoHxAU/edit?usp=sharing)
