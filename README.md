@@ -32,6 +32,9 @@ Project Trees:
 ## Dataset
 The dataset can be found [here](https://drive.google.com/drive/folders/1zRq6e9ndUOX7v6Qz-EU9ECSfxSTJsv6u?usp=sharing)
 
-## Timeline
+## Embedding
+The embedding is using gensim word2vec based on the "data_clean_100k.res" as the corpus. 
+There are multiple length of embedding (25,50 and 75)
 
+## Timeline
 Detail timeline can be found [here](https://docs.google.com/spreadsheets/d/170BDuEffhWfKkcdC0TCmQYmuEhOYN0RumVqhaVoHxAU/edit?usp=sharing)
