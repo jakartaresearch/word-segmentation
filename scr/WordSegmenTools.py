@@ -35,6 +35,13 @@ def char_vectorizer(list_inputs, char_indices, MAX_LENGTH):
     
     return x
 
+def char_vectorizer_word2vec(list_inputs, embed, MAX_LENGTH):
+    x = np.zeros((len(list_inputs), MAX_LENGTH, embed.vector_size))
+    for i, input_ in enumerate(list_inputs):
+        for t, char in enumerate(input_):
+            x[i,t,:]=embed[char]
+    return x
+
 # flag_space example = '000010000010000'
 def get_source_with_space(input,flag_space):
     source_space=''
